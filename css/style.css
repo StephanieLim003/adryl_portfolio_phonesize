@@ -229,7 +229,7 @@ background-repeat: no-repeat;
   overflow: hidden;
   overflow-y: scroll;
   padding-left: 30px;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 ::-webkit-scrollbar {
   width: 0px;
