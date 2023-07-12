@@ -193,7 +193,7 @@ align-items: center;
 .herotwo h1 {
   color: #ff00d0;
   opacity: 100;
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 .show h1{
 display: flex;
@@ -224,11 +224,12 @@ background-repeat: no-repeat;
   width: 1400px;
 }
 .scrolling {
-  height: 210px;
+  height: 190px;
   width: 2400px;
   overflow: hidden;
   overflow-y: scroll;
   padding-left: 30px;
+    margin-top: 20px;
 }
 ::-webkit-scrollbar {
   width: 0px;
